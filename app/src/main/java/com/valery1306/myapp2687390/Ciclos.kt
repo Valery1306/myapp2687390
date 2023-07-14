@@ -94,13 +94,14 @@ fun main() {
     var suma = 0
     var suma1 = 0
     var inicio=1
+    var numero=0
 
     do {
         println("Ingrese el numero ")
         var numero: Int = readLine()!!.toInt()
     } while (inicio==1)
         if (numero <= 0) {
-            break
+            //break
         } else {
             if ((numero % 2) != 0) {
                 println("Su numero es impar $numero")
