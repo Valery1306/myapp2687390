@@ -123,7 +123,7 @@ fun main() {
     println("Tiene $pares numeros pares")
     println("Tiene $impares numeros impares")
     println("La suma de los numeros impares es $suma")
-    println("La suma de los numeros pares es $suma1")
+    println("La suma de los numeros paress es $suma1")
 
 
 }
